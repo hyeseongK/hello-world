@@ -8,7 +8,7 @@ public class SelfTest19 {
 		int i = 0;
 		int[] arr = new int[i];
 		
-		
+		xddssdasdasd // Ãß°¡
 		
 
 	}
